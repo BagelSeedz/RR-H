@@ -7,5 +7,5 @@ Members also had the ability to check group and player profiles created by the b
 
 - At the time of it's creation, this was the largest project I had ever taken.
 - This is my highest quality bot so far (embeds after embeds 😭).
-- This project introduced me into learning databases. I started experimenting with SQLite, a smaller, disk version of SQL. 
+- This project introduced me into learning databases. I started experimenting with SQLite. 
 - I was very determined to finish this project, and it was all completed within 1 week.
