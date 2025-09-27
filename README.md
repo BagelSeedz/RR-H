@@ -13,7 +13,7 @@ The bot has numerous other capabilities like ticket opening by reaction, manual 
 
 ## Reflection
 At the time of it's creation, this was the largest project I had ever taken.
-This is my highest quality discord bot so far (embeds after embeds 😭).
+This is my highest quality discord bot so far.
 This project introduced me into learning databases. I started experimenting with SQLite. 
 I was very determined to finish this project, and it was all completed within 1 week.
 
